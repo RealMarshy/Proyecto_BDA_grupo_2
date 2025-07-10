@@ -28,7 +28,7 @@ namespace CView
 "• Douglas Orrala\r\n" +
 "• Andy Gutierrez\r\n" +
 "• Ruben Quiroga\r\n" +
-"• \r\n" +
+"• Kleber Arteaga\r\n" +
 "• \r\n" +
 "• \r\n";
         }
